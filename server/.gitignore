@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 node_modules
 uploads/*
 !uploads/.gitkeep
 
 *.sqlite
+=======
+node_modules
+uploads/*
+>>>>>>> 74f13e3c37f6c94903c9a4b3f3607914b2b2820b
